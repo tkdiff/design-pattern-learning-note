@@ -1,6 +1,4 @@
-# 设计模式之美学习笔记
+# 《设计模式之美》学习笔记
 
-TODO: Add some description
-
-
+Keep writing.
 
